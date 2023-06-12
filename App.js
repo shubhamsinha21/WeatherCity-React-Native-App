@@ -8,6 +8,13 @@ export default function App() {
   <Text>Hellp</Text>
   <Text>Hellp</Text>
   <Text>Hellp</Text>
+  <Text>Shubham sinha 21</Text>
+  <Text>Shubham sinha 21</Text>
+  <Text>Shubham sinha 21</Text>
+  <Text>Shubham sinha 21</Text>
+
+
+
 </>
   
   )
